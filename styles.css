@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.post {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 3%;
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 10px;
+}
+
+.post-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.icono-container {
+    position: absolute;
+    right: 700px;
+    top: 40px;
+    font-size: 24px;
+}
+
+.logohtml-container {
+    font-size: 36px;
+    color: #0074e4;
+}
+
+.nombreusuario {
+    font-size: 16px;
+    line-height: 1.2;
+    margin-left: 10px;
+}
+
+.nombreusuario span {
+    display: block;
+}
+
+.imagen-post {
+    height: 400px;
+    margin-left: 30px;
+    border-radius: 2%;
+}
+
+.post-header img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.post-iconos {
+    font-size: 24px;
+    display: flex;
+    margin-left: 37px;
+    margin-top: 20px;
+}
+
+.bookmark {
+    margin-left: 370px;
+}
+
+.iconos {
+    margin-right: 20px;
+}
+
+.descripcion {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    margin-left: 37px;
+    margin-right: 37px;
+}
+
+.tiempo-publicacion {
+    color: #999;
+    font-size: 12px;
+    margin-left: 37px;
+}
